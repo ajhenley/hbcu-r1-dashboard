@@ -1,5 +1,7 @@
 # HBCU & R1 Benchmarking Dashboard
 
+https://hbcu-r1-dashboard.streamlit.app/
+
 How close is every HBCU to R1 research status, and how do the 102 HBCUs compare on research, doctoral output and student outcomes?
 
 This dashboard is built entirely on public federal data: the NSF HERD Survey and U.S. Department of Education IPEDS. It has four views:
