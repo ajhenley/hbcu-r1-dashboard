@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy
+plotly>=6.1.1
+jupyterlab
+# optional: lets the notebook save static chart images (for viewing on GitHub)
+kaleido>=1.0
