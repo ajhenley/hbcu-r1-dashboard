@@ -39,7 +39,7 @@ html, body, [class*="st-"], .stMarkdown, .stTabs, button, input, select, textare
 [data-testid="stHeader"] {
   background: transparent;
 }
-[data-testid="stToolbar"], [data-testid="stDecoration"], footer {
+[data-testid="stDecoration"], footer {
   display: none !important;
 }
 .block-container {
