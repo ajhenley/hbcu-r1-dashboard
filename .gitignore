@@ -3,3 +3,5 @@ data/raw/*.zip
 data/raw/*.sas7bdat
 __pycache__/
 .venv/
+.DS_Store
+.ipynb_checkpoints/

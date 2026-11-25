@@ -87,5 +87,3 @@ pipeline/build_data.py     raw federal files -> tidy tables
 data/processed/            institutions.csv, rd_by_year.csv, doctorates_by_year.csv
 data/raw/                  put raw downloads here (git-ignored)
 ```
-# hbcu-r1-dashboard
-# hbcu-r1-dashboard
